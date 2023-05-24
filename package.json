@@ -2,7 +2,7 @@
   "name": "dogfood-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nata1901.github.io/df",
+  "homepage": "https://nata1901.github.io/pet",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
