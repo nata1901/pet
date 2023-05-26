@@ -1,10 +1,19 @@
 import Layout from "../components/Layout";
+import Banner from "../components/Banner";
+import Adds from "../components/Adds";
+
+import bannersData from "../assets/data/banners.json";
+import addsData from "../assets/data/adds.json";
 
 export function Home () {
     return <>
-    <h1>Главная страница</h1>
-    <Layout mb={1} dt={2} gap="small"/>
-    <Layout mb={2} dt={4} gap="none"/>
-    <Layout mb={2} dt={3}/>
+        <Banner {...bannersData[2]} pattern={false} bgPos="50% 38%"/>
+        <Layout>
+            <Adds {...addsData[0]}/>
+        </Layout>
+        <Layout dt={2}>
+            <Adds {...addsData[1]}/>
+            <Adds {...addsData[2]}/>
+        </Layout>
     </>
 }

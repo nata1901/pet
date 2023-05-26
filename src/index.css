@@ -1,18 +1,30 @@
+:root {
+  font-size: 8px;
+}
+* {
+  position: relative;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
 a {
   text-decoration: none;
   color: inherit;
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
 }
 ul {
   padding: 0;
   list-style-type: none;
 }
 .menu {
-  padding: 0;
-  list-style-type: none;
   display: flex;
   gap: 10px;
-  position: relative;
-  z-index: 1;
+  flex-wrap: wrap;
 }
 .menu>li {
 position: relative;
@@ -22,7 +34,6 @@ position: relative;
 }
 .menu ul {
 position: absolute;
-list-style-type: none;
 z-index: 1;
 background-color: white;
 padding: 10px;

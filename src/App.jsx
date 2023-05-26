@@ -11,8 +11,11 @@ import {
   SingleProduct
 } from "./pages";
 
+import Layout from "./components/Layout";
+
 function App() {
   return <>
+ <Layout>
   <ul className="menu">
     <li><Link to="/">Главная</Link></li>
     <li><Link to="/products">Каталог</Link>
@@ -30,6 +33,7 @@ function App() {
     <li><Link to="/delivery">Доставка</Link></li>
     <li><Link to="about/">О нас</Link></li>
   </ul>
+  </Layout> 
 <Routes>
   <Route path="/" element={<Home/>}/>
   <Route path="/products" element={<Products/>}/>

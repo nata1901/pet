@@ -3,3 +3,18 @@ https://create-react-app.dev/
 
 Запустить проект на GithubPages
 https://create-react-app.dev/docs/deployment
+
+Картинки jpg (фотки)
+https://unsplash.com/
+
+Картинки (10шт / день)
+https://www.freepik.com/
+
+Иконки png (10 | 50 / день)
+https://www.flaticon.com/
+
+Корги
+https://www.flaticon.com/free-sticker/corgi_7603390?related_id=7603390&origin=search
+
+Pug
+https://www.flaticon.com/free-sticker/pug_8326204
