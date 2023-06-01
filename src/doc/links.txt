@@ -18,3 +18,11 @@ https://www.flaticon.com/free-sticker/corgi_7603390?related_id=7603390&origin=se
 
 Pug
 https://www.flaticon.com/free-sticker/pug_8326204
+
+Новости
+https://newsapi.org/
+    Что можно посмотреть:
+        Techinsider.ru
+        Life.ru
+        Picabu
+        Lenta.ru
