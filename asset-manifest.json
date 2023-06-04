@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/pet/static/css/main.23d7a2bb.css",
-    "main.js": "/pet/static/js/main.f5f4b73c.js",
+    "main.css": "/pet/static/css/main.0af3e9eb.css",
+    "main.js": "/pet/static/js/main.040221ac.js",
+    "static/media/paws.jpg": "/pet/static/media/paws.3efd28fa4e219b8325c0.jpg",
+    "static/media/puppy.jpg": "/pet/static/media/puppy.0cebf73595cabfd96531.jpg",
+    "static/media/dogs-arrows.jpg": "/pet/static/media/dogs-arrows.706b52dd4ae49efca806.jpg",
+    "static/media/pug6.png": "/pet/static/media/pug6.0a91773327c7df68ebd4.png",
+    "static/media/pug10.png": "/pet/static/media/pug10.18a74b12064c2b84c1f0.png",
+    "static/media/pug3.png": "/pet/static/media/pug3.a2b9ab07167d7093fecb.png",
+    "static/media/pug5.png": "/pet/static/media/pug5.dbaeaa0d520640e9b6ed.png",
+    "static/media/pug7.png": "/pet/static/media/pug7.bd3f515a20a762535da8.png",
+    "static/media/pug8.png": "/pet/static/media/pug8.f4432eb3e0ca19b599cb.png",
+    "static/media/pug4.png": "/pet/static/media/pug4.47f1f801065f255ba6e3.png",
+    "static/media/pug9.png": "/pet/static/media/pug9.8a05fca422429e32f0a6.png",
+    "static/media/pug2.png": "/pet/static/media/pug2.35bf36f03f348a050281.png",
+    "static/media/pug1.png": "/pet/static/media/pug1.0146ba295f7b475dbf47.png",
     "index.html": "/pet/index.html",
-    "main.23d7a2bb.css.map": "/pet/static/css/main.23d7a2bb.css.map",
-    "main.f5f4b73c.js.map": "/pet/static/js/main.f5f4b73c.js.map"
+    "main.0af3e9eb.css.map": "/pet/static/css/main.0af3e9eb.css.map",
+    "main.040221ac.js.map": "/pet/static/js/main.040221ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.23d7a2bb.css",
-    "static/js/main.f5f4b73c.js"
+    "static/css/main.0af3e9eb.css",
+    "static/js/main.040221ac.js"
   ]
 }
