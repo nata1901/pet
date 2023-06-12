@@ -24,3 +24,27 @@
     Photo by <a href="https://unsplash.com/@oddityandgrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">hannah grace</a> on <a href="https://unsplash.com/images/animals/puppies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     <a href="https://www.flaticon.com/free-stickers/corgi" title="corgi stickers">Corgi stickers created by Surfsup.Vector - Flaticon</a>
     <a href="https://www.flaticon.com/free-stickers/pug" title="pug stickers">Pug stickers created by Stickers - Flaticon</a>
+
+Элементы формы:
+    Пользователь:
+        name - text
+        about - textarea
+        avatar - link
+        email - email
+        password - password
+    Товар:
+        name - text
+        price - number
+        discount - select
+        stock - number
+        available ? isPublished - checkbox
+        wight - text
+        description - textarea
+        pictures - link
+    Отзыв:
+        name - text
+        city - text
+        text - textarea
+        rating - number
+    Поиск:
+        text / search
